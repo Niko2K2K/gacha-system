@@ -1,9 +1,14 @@
 {
   "devDependencies": {
     "@types/chalk": "^0.4.31",
-    "@types/node": "^24.0.12"
+    "@types/node": "^24.0.12",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
   },
   "dependencies": {
     "chalk": "^5.4.1"
+  },
+  "scripts": {
+    "start": "ts-node src/pulls.ts"
   }
 }
