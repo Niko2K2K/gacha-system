@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@types/chalk": "^0.4.31",
+    "@types/node": "^24.0.12"
+  },
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
+}
